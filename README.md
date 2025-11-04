@@ -1,5 +1,4 @@
-# hacktiv8-m1-project
-ETL Pipeline – Uniqlo Men’s Tops
+# ETL Pipeline – Uniqlo Men’s Tops
 
 Built a web‑scraping pipeline to extract product name, type (male/unisex), price, rating, and review count from Uniqlo’s site.
 
